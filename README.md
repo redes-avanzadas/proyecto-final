@@ -1,2 +1,3 @@
-# proyecto-final
-Proyecto Final del curso
+Proyecto Final
+==============
+>Realizado por Priscilla Piedra y Martin Flores
